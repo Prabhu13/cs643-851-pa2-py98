@@ -7,6 +7,8 @@
 - Apache Spark 3.5.x
 - Python 3.9+
 
+Set up 4 EC2 instances for Spark, designating one as the master node and the others as worker nodes (Node1, Node2, Node3), with security group rules allowing full communication between all EC2 instances to enable Spark’s functionality.
+
 ## System Preparation (Run on ALL Instances)
 
 ### 1. System Update and Dependencies
