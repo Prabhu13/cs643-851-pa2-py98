@@ -1,3 +1,19 @@
+# Github:
+
+https://github.com/Prabhu13/cs643-851-pa2-py98
+
+# DockerHub : 
+
+https://hub.docker.com/r/prabhu13/wine-quality-prediction
+
+# Scripts : 
+
+https://github.com/Prabhu13/cs643-851-pa2-py98/blob/main/machine-learning/scripts/preprocess.py
+
+![image](https://github.com/user-attachments/assets/da9ac6f8-328f-4737-9ed3-3cecf45fe302)
+
+
+
 # Distributed Wine Quality Prediction with Apache Spark
 
 ## Prerequisites
